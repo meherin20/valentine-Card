@@ -96,3 +96,4 @@ noBtn.addEventListener("touchstart", (e)=>{
   e.preventDefault(); 
   moveNo(); 
 }, {passive:false});
+
